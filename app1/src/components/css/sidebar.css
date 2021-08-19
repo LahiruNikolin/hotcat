@@ -1,0 +1,17 @@
+.side-conta{
+ background-color: rgb(170, 176, 177);
+    width: 30%;
+
+    padding-top: 3.5rem;
+    
+}
+
+.side-conta div{
+    text-align: center;
+     
+    border:0.1rem solid black;
+    color: rgb(39, 39, 39);
+   
+}
+
+ 

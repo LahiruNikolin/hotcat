@@ -1,0 +1,44 @@
+.hero-cont {
+    
+    padding-left: 5rem;
+   
+}
+
+.hero-sub-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1.4rem;
+
+}
+
+.hero-sub-cont .inp-cont{
+    display: flex;
+    
+}
+.hero-sub-cont .inp-cont .inp{
+    position: relative;
+    align-self:center;
+}
+.hero-sub-cont .inp-cont input{
+    outline: none;
+    width: 10rem;
+    border-radius:0.3rem;
+    height: 1.3rem;
+}
+
+.ic-ser{
+   position: absolute;
+   right:0;
+   color: rgb(100, 100, 100);
+  
+}
+.cust-btn{
+    margin-left: 0.8rem;
+
+}
+
+.add-btn{
+    margin-left: 30rem;
+}

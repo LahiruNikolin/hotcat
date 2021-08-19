@@ -1,0 +1,27 @@
+.inp-holder{
+     
+    text-align:"center";
+    padding-bottom: 0.4rem;
+    position: relative;
+     
+}
+
+.inp-holder .each-inp{
+  
+    
+}
+
+.inp-holder .each-inp input,.inp-holder .each-inp select{
+    width: 95%;
+    border-radius: 0.3rem;
+    height: 1.4rem;
+}
+ 
+.inp-holder .cancel-ic{
+    display: inline-block;
+    position: absolute;
+    top:0;
+    right: 0;
+   
+
+}
